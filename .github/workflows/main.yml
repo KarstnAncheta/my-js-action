@@ -13,7 +13,7 @@ jobs:
     - uses: KarstnAncheta/my-js-action@v2
     - name: Install dependencies
       run: |
-        sudo python -m pip instll --upgrade pip
+        sudo python -m pip install --upgrade pip
 
     - name: Say hello to the world
       run: |

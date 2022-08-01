@@ -2,15 +2,15 @@ on:
   workflow_dispatch:
 
   schedule:
-  - cron: "15 9 1 * *"
+  - cron: "33 9 1 * *"
 
 jobs:
 
-  build:
+  job1:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: KarstnAncheta/my-js-action@v2
+    - uses: actions/checkout@v3
     - name: Install dependencies
       run: |
         sudo python -m pip install --upgrade pip
@@ -18,3 +18,17 @@ jobs:
     - name: Say hello to the world
       run: |
         python main.py
+    
+  job2:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    - name: Install dependencies
+      run: |
+        sudo python -m pip install --upgrade pip
+
+    - name: Other job
+      run: |
+        python other.py
+    

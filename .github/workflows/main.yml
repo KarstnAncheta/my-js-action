@@ -1,8 +1,12 @@
 on:
-  workflow_dispatch:
+#  workflow_dispatch:
+#
+#  schedule:
+#  - cron: "46 10 1 * *"
 
-  schedule:
-  - cron: "46 10 1 * *"
+  push:
+    branches: 
+    - test-branch
 
 jobs:
 

@@ -23,6 +23,10 @@ jobs:
           pip install -r requirements.txt
           python main.py
 
+      - name: Deactivate virtual environment
+        run: |
+          deactivate
+          
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

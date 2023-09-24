@@ -14,18 +14,10 @@ jobs:
         with:
           python-version: '3.9.13'
 
-      - name: Create virtual environment
-        run: |
-          python3 -m venv sample-env
-
-      - name: Activate virtual environment
-        run: |
-          source sample-env/bin/activate
-
       - name: Install requirements and run script
         run: |
           cd scripts
-          pip install --upgrade pip
+          sudo python -m pip install --upgrade pip setuptools wheel
           sudo pip install -r requirements.txt
           python main.py
 

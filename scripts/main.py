@@ -1,8 +1,8 @@
-import plotly.express as px
-import pandas as pd
-from datetime import date
-from pathlib import Path
 import os
+from pathlib import Path
+from datetime import date
+import pandas as pd
+import plotly.express as px
 
 DIRECTORY_SEPARATOR = os.path.sep
 

@@ -21,10 +21,11 @@ jobs:
       - name: Activate virtual environment
         run: |
           source sample-env/bin/activate
-          
+
       - name: Install requirements and run script
         run: |
           cd scripts
+          pip install --upgrade pip
           sudo pip install -r requirements.txt
           python main.py
 

@@ -10,7 +10,7 @@ AIP PPA rename to Barangay Disaster Risk Reduction Management Fund	https://githu
 Form 1 - second semester (estimate) if negative value, turn to 0	https://github.com/cgob-mitd-dev/egov-bebs/issues/95	KarstnAncheta	0.5	Archived - Old	Jun 8, 2023	Jun 8, 2023	miscellaneous tasks	P3	backend, enhancement, frontend
 add is Development Project flag to Reference	https://github.com/cgob-mitd-dev/egov-bebs/issues/98	KarstnAncheta	0.5	Archived - Old	Jun 19, 2023	Jun 20, 2023	miscellaneous tasks	P1	backend, enhancement, frontend
 optimize TheAIP page	https://github.com/cgob-mitd-dev/egov-bebs/issues/108	KarstnAncheta	8	Archived - Old	Jun 19, 2023	Jun 19, 2023	miscellaneous tasks	P3	backend, enhancement
-Add units of issue dropdown	https://github.com/cgob-mitd-dev/egov-bebs/issues/100	KarstnAncheta	4	Archived - Old	Jun 8, 2023	Jun 12, 2023	mvp	P2	enhancement, frontend
+Add units of issue dropdown	https://github.com/cgob-mitd-dev/egov-bebs/issues/100	KarstnAncheta	4	Archived - Old	Jun 8, 2023	Jun 12, 2023	miscellaneous tasks	P1	enhancement, frontend
 connect PPA to ExpenditureClass, ProcurementItem, and Personnel	https://github.com/cgob-mitd-dev/egov-bebs/issues/106	KarstnAncheta	16	Archived - Old	Jun 19, 2023	Jun 19, 2023	miscellaneous tasks	P1	backend, enhancement
 utilize pinia stores	https://github.com/cgob-mitd-dev/egov-bebs/issues/90	KarstnAncheta	40	Archived - Old	Jun 8, 2023	Jun 14, 2023	miscellaneous tasks	P3	enhancement, frontend
 rename account code 5-01-01-020 -> 5-01-01-010a	https://github.com/cgob-mitd-dev/egov-bebs/issues/102	KarstnAncheta	1	Archived - Old	Jun 8, 2023	Jun 12, 2023	miscellaneous tasks	P1	backend, enhancement
@@ -20,83 +20,99 @@ fix ps, mooe, co, and total	https://github.com/cgob-mitd-dev/egov-bebs/issues/77
 remove receipts from list of Account Codes	https://github.com/cgob-mitd-dev/egov-bebs/issues/79	KarstnAncheta	2	Archived - Old	May 18, 2023	May 18, 2023	miscellaneous tasks	P1	backend, enhancement
 remove FE from list of Account Codes	https://github.com/cgob-mitd-dev/egov-bebs/issues/78	KarstnAncheta	1	Archived - Old	May 18, 2023	May 18, 2023	miscellaneous tasks	P1	backend, enhancement
 add form 2a total	https://github.com/cgob-mitd-dev/egov-bebs/issues/81	KarstnAncheta	1	Archived - Old	May 18, 2023	May 18, 2023	miscellaneous tasks	P1	enhancement, frontend
-add api for receipts	https://github.com/cgob-mitd-dev/egov-bebs/issues/82	KarstnAncheta	2	Archived - Old	May 18, 2023	May 18, 2023	mvp	P1	backend, enhancement
-Barangay User Module	https://github.com/cgob-mitd-dev/egov-bebs/issues/28	KarstnAncheta	80	Archived - Old	Apr 3, 2023	Jun 8, 2023	mvp	P2	frontend
+Add initial commit	https://github.com/cgob-mitd-dev/egov-bebs/issues/1	KarstnAncheta	2	Archived - Old	Feb 24, 2023	Feb 24, 2023	mvp	P2	backend, frontend
+Admin User Module	https://github.com/cgob-mitd-dev/egov-bebs/issues/31	KarstnAncheta	24	Archived - Old	Mar 22, 2023	Mar 24, 2023	mvp	P2	backend, frontend
+Budgeting User Module	https://github.com/cgob-mitd-dev/egov-bebs/issues/29	KarstnAncheta	40	Archived - Old	Mar 29, 2023	Apr 9, 2023	mvp	P2	backend
+Barangay User Module	https://github.com/cgob-mitd-dev/egov-bebs/issues/28	KarstnAncheta	160	Archived - Old	Apr 3, 2023	Jun 8, 2023	mvp	P2	frontend
+add api for receipts	https://github.com/cgob-mitd-dev/egov-bebs/issues/82	KarstnAncheta	2	Archived - Old	May 18, 2023	May 18, 2023	miscellaneous tasks	P1	backend, enhancement
 fix searchbar bug for enums	https://github.com/cgob-mitd-dev/egov-bebs/issues/70	KarstnAncheta	2	Archived - Old	May 8, 2023	May 8, 2023	miscellaneous tasks	P1	backend, frontend
 update aip reference codes	https://github.com/cgob-mitd-dev/egov-bebs/issues/68	KarstnAncheta	1	Archived - Old	May 8, 2023	May 8, 2023	miscellaneous tasks	P1	backend, enhancement
 rename in FS - Total => Total (current year)	https://github.com/cgob-mitd-dev/egov-bebs/issues/94	KarstnAncheta	4	Archived - Old	Jun 7, 2023	Jun 8, 2023	miscellaneous tasks	P1	enhancement, frontend
 update accounts.json	https://github.com/cgob-mitd-dev/egov-bebs/issues/84	KarstnAncheta	0.5	Archived - Old	May 22, 2023	May 22, 2023	miscellaneous tasks	P1	backend
 05302023 requests	https://github.com/cgob-mitd-dev/egov-bebs/issues/89	KarstnAncheta	8	Archived - Old	May 30, 2023	May 30, 2023	miscellaneous tasks	P1	backend, enhancement, frontend
 update Equipment Form	https://github.com/cgob-mitd-dev/egov-bebs/issues/73	KarstnAncheta	2	Archived - Old	May 18, 2023	May 18, 2023	miscellaneous tasks	P1	enhancement, frontend
-add generate reference and sub reference in helpers.js	https://github.com/cgob-mitd-dev/egov-bebs/issues/83	KarstnAncheta	2	Archived - Old	May 19, 2023	May 19, 2023	mvp	P1	enhancement, frontend
-add account column for supplies and equipment	https://github.com/cgob-mitd-dev/egov-bebs/issues/80	KarstnAncheta	2	Archived - Old	May 18, 2023	May 18, 2023	mvp	P1	enhancement, frontend
+add generate reference and sub reference in helpers.js	https://github.com/cgob-mitd-dev/egov-bebs/issues/83	KarstnAncheta	2	Archived - Old	May 19, 2023	May 19, 2023	miscellaneous tasks	P1	enhancement, frontend
+add account column for supplies and equipment	https://github.com/cgob-mitd-dev/egov-bebs/issues/80	KarstnAncheta	2	Archived - Old	May 18, 2023	May 18, 2023	miscellaneous tasks	P1	enhancement, frontend
 Debt - Term in years to months	https://github.com/cgob-mitd-dev/egov-bebs/issues/101	KarstnAncheta	0.5	Archived - Old	Jun 7, 2023	Jun 7, 2023	miscellaneous tasks	P1	backend, enhancement
 update Form likeness	https://github.com/cgob-mitd-dev/egov-bebs/issues/74	KarstnAncheta	2	Archived - Old	May 18, 2023	May 18, 2023	miscellaneous tasks	P3	enhancement, frontend
-Files/Uploadables accept PDFs only	https://github.com/cgob-mitd-dev/egov-bebs/issues/87	KarstnAncheta	4	Archived - Old	May 26, 2023	May 26, 2023	mvp	P1	backend, enhancement, frontend
+Add initial migrations	https://github.com/cgob-mitd-dev/egov-bebs/issues/3	KarstnAncheta	4	Archived - Old	Feb 24, 2023	Feb 24, 2023	mvp	P2	backend
+Utilize UUIDs	https://github.com/cgob-mitd-dev/egov-bebs/issues/66	KarstnAncheta	4	Archived - Old	Apr 28, 2023	Apr 28, 2023	mvp	P2	backend, enhancement
+Add initial models	https://github.com/cgob-mitd-dev/egov-bebs/issues/2	KarstnAncheta	8	Archived - Old	Feb 24, 2023	Feb 24, 2023	mvp	P2	backend
+Accept PDF files only for uploadable files	https://github.com/cgob-mitd-dev/egov-bebs/issues/87	KarstnAncheta	8	Archived - Old	May 26, 2023	May 26, 2023	mvp	P1	backend, enhancement, frontend
 CPDSO approved gad plan and buget	https://github.com/cgob-mitd-dev/egov-bebs/issues/58	KarstnAncheta	2	Archived - Old	Apr 26, 2023	May 18, 2023	miscellaneous tasks	P1	backend, enhancement, frontend
 add is_bdrrm flag to reference	https://github.com/cgob-mitd-dev/egov-bebs/issues/85	KarstnAncheta	0.5	Archived - Old	May 23, 2023	May 23, 2023	miscellaneous tasks	P1	backend, enhancement
 update reference modal	https://github.com/cgob-mitd-dev/egov-bebs/issues/86	KarstnAncheta	1	Archived - Old	May 23, 2023	May 23, 2023	miscellaneous tasks	P3	backend, enhancement, frontend
 update funding sources	https://github.com/cgob-mitd-dev/egov-bebs/issues/88	KarstnAncheta	1	Archived - Old	May 24, 2023	May 24, 2023	miscellaneous tasks	P1	backend, enhancement, frontend
 update supplies and equipment validation	https://github.com/cgob-mitd-dev/egov-bebs/issues/67	KarstnAncheta	1	Archived - Old	May 8, 2023	May 8, 2023	miscellaneous tasks	P1	backend, enhancement
-feat :sparkles: initial barangay module	https://github.com/cgob-mitd-dev/egov-bebs/pull/54	KarstnAncheta	24	Archived - Old	Apr 10, 2023	Mar 4, 2023	mvp	P2	backend, bug, enhancement, frontend
+Use new 'client2' folder for frontend	https://github.com/cgob-mitd-dev/egov-bebs/issues/24	KarstnAncheta	2	Archived - Old	Mar 10, 2023	Mar 10, 2023	mvp	P2	frontend
 add sector to aip generated form	https://github.com/cgob-mitd-dev/egov-bebs/issues/69	KarstnAncheta	1	Archived - Old	May 8, 2023	May 10, 2023	miscellaneous tasks	P3	backend, enhancement, frontend
 add loading component	https://github.com/cgob-mitd-dev/egov-bebs/issues/44	KarstnAncheta	1	Archived - Old	Apr 22, 2023	Apr 22, 2023	miscellaneous tasks	P3	enhancement, frontend
-use new 'client2' folder for frontend	https://github.com/cgob-mitd-dev/egov-bebs/issues/24	KarstnAncheta	2	Archived - Old	Mar 10, 2023	Mar 10, 2023	mvp	P2	frontend
 add request validation for ENUM requests	https://github.com/cgob-mitd-dev/egov-bebs/issues/14	KarstnAncheta	4	Archived - Old	Apr 4, 2023	Apr 4, 2023	miscellaneous tasks	P1	backend
 update personnel category modal	https://github.com/cgob-mitd-dev/egov-bebs/issues/45	KarstnAncheta	1	Archived - Old	Apr 4, 2023	Apr 4, 2023	miscellaneous tasks	P2	enhancement, frontend
-Dashboard display of barangays	https://github.com/cgob-mitd-dev/egov-bebs/issues/46	KarstnAncheta	2	Archived - Old	Apr 4, 2023	Apr 4, 2023	mvp	P2	backend, frontend
+Add dashboard display of barangay info	https://github.com/cgob-mitd-dev/egov-bebs/issues/46	KarstnAncheta	2	Archived - Old	Apr 4, 2023	Apr 4, 2023	mvp	P2	backend, frontend
 create TSelectSimple	https://github.com/cgob-mitd-dev/egov-bebs/issues/53	KarstnAncheta	1	Archived - Old	Apr 4, 2023	Apr 4, 2023	miscellaneous tasks	P3	enhancement, frontend
-Budgeting User Module	https://github.com/cgob-mitd-dev/egov-bebs/issues/29	KarstnAncheta	40	Archived - Old	Mar 29, 2023	Apr 9, 2023	mvp	P2	backend
-add generic message component	https://github.com/cgob-mitd-dev/egov-bebs/issues/55	KarstnAncheta	1	Archived - Old	Apr 10, 2023	Apr 10, 2023	mvp	P2	frontend
+Add generic message component	https://github.com/cgob-mitd-dev/egov-bebs/issues/55	KarstnAncheta	4	Archived - Old	Apr 10, 2023	Apr 10, 2023	miscellaneous tasks	P1	frontend
 Fix salary grade problem	https://github.com/cgob-mitd-dev/egov-bebs/issues/39	KarstnAncheta	2	Archived - Old	Apr 25, 2023	Apr 25, 2023	miscellaneous tasks	P1	backend, enhancement, frontend
 Reposition Checklist Buttons	https://github.com/cgob-mitd-dev/egov-bebs/issues/62	KarstnAncheta	4	Archived - Old	Apr 21, 2023	Apr 24, 2023	miscellaneous tasks	P3	enhancement, frontend
 Make font size bigger	https://github.com/cgob-mitd-dev/egov-bebs/issues/63	KarstnAncheta	1	Archived - Old	Apr 24, 2023	Apr 24, 2023	miscellaneous tasks	P3	enhancement, frontend
-utilize uuids	https://github.com/cgob-mitd-dev/egov-bebs/issues/66	KarstnAncheta	4	Archived - Old	Apr 28, 2023	Apr 28, 2023	mvp	P2	backend, enhancement
-update profiles and addresses migrations	https://github.com/cgob-mitd-dev/egov-bebs/issues/40	KarstnAncheta	2	Archived - Old	Mar 29, 2023	Mar 29, 2023	mvp	P2	backend
+Update Profile and Address migrations	https://github.com/cgob-mitd-dev/egov-bebs/issues/40	KarstnAncheta	4	Archived - Old	Mar 29, 2023	Mar 29, 2023	mvp	P2	backend
 remove delete feedback	https://github.com/cgob-mitd-dev/egov-bebs/issues/50	KarstnAncheta	0.5	Archived - Old	Apr 4, 2023	Apr 4, 2023	miscellaneous tasks	P3	backend, frontend
 update account migrations	https://github.com/cgob-mitd-dev/egov-bebs/issues/36	KarstnAncheta	0.5	Archived - Old	Mar 29, 2023	Mar 29, 2023	miscellaneous tasks	P1	backend
-add sectors composable	https://github.com/cgob-mitd-dev/egov-bebs/issues/51	KarstnAncheta	0.5	Archived - Old	Apr 4, 2023	Apr 4, 2023	mvp	P2	frontend
-Admin User Module	https://github.com/cgob-mitd-dev/egov-bebs/issues/31	KarstnAncheta	24	Archived - Old	Mar 22, 2023	Mar 24, 2023	mvp	P2	backend, frontend
+add sectors composable	https://github.com/cgob-mitd-dev/egov-bebs/issues/51	KarstnAncheta	0.5	Archived - Old	Apr 4, 2023	Apr 4, 2023	miscellaneous tasks	P1	frontend
 update feedback migrations	https://github.com/cgob-mitd-dev/egov-bebs/issues/35	KarstnAncheta	0.5	Archived - Old	Mar 29, 2023	Mar 29, 2023	miscellaneous tasks	P1	backend
-add user roles	https://github.com/cgob-mitd-dev/egov-bebs/issues/33	KarstnAncheta	8	Archived - Old	Mar 22, 2023	Mar 23, 2023	mvp	P2	backend
-Feedback Page	https://github.com/cgob-mitd-dev/egov-bebs/issues/30	KarstnAncheta	2	Archived - Old	Mar 29, 2023	Mar 29, 2023	mvp	P2	frontend
+Add user roles	https://github.com/cgob-mitd-dev/egov-bebs/issues/33	KarstnAncheta	8	Archived - Old	Mar 22, 2023	Mar 23, 2023	mvp	P2	backend
+Add feedback page	https://github.com/cgob-mitd-dev/egov-bebs/issues/30	KarstnAncheta	4	Archived - Old	Mar 29, 2023	Mar 29, 2023	miscellaneous tasks	P3	frontend
 update error color from red to purple	https://github.com/cgob-mitd-dev/egov-bebs/issues/42	KarstnAncheta	2	Archived - Old	Mar 30, 2023	Mar 30, 2023	miscellaneous tasks	P3	enhancement, frontend
-utilize postgresql	https://github.com/cgob-mitd-dev/egov-bebs/issues/21	KarstnAncheta	4	Archived - Old	Mar 23, 2023	Mar 23, 2023	mvp	P2	backend
+Utilize postgresql	https://github.com/cgob-mitd-dev/egov-bebs/issues/21	KarstnAncheta	16	Archived - Old	Mar 23, 2023	Mar 23, 2023	miscellaneous tasks	P1	backend
 update TextInputSimple to TextInput	https://github.com/cgob-mitd-dev/egov-bebs/issues/43	KarstnAncheta	1	Archived - Old	Mar 30, 2023	Mar 30, 2023	miscellaneous tasks	P3	frontend
-add pagination	https://github.com/cgob-mitd-dev/egov-bebs/issues/32	KarstnAncheta	8	Archived - Old	Mar 22, 2023	Mar 22, 2023	mvp	P2	backend, frontend
-add filter by district for barangay annual checklist page	https://github.com/cgob-mitd-dev/egov-bebs/issues/38	KarstnAncheta	1	Archived - Old	Mar 30, 2023	Mar 30, 2023	mvp	P2	backend, enhancement, frontend
-search and filter params ENUMS	https://github.com/cgob-mitd-dev/egov-bebs/issues/48	KarstnAncheta	1	Archived - Old	Apr 1, 2023	Apr 1, 2023	mvp	P2	frontend
+Add pagination for admin settings	https://github.com/cgob-mitd-dev/egov-bebs/issues/32	KarstnAncheta	8	Archived - Old	Mar 22, 2023	Mar 22, 2023	miscellaneous tasks	P1	backend, frontend
+Add filter by district for barangay annual checklist page	https://github.com/cgob-mitd-dev/egov-bebs/issues/38	KarstnAncheta	2	Archived - Old	Mar 30, 2023	Mar 30, 2023	miscellaneous tasks	P1	backend, enhancement, frontend
+Add search and filter params for ENUMS	https://github.com/cgob-mitd-dev/egov-bebs/issues/48	KarstnAncheta	8	Archived - Old	Apr 1, 2023	Apr 1, 2023	miscellaneous tasks	P3	frontend
 update personnel categories migrations	https://github.com/cgob-mitd-dev/egov-bebs/issues/37	KarstnAncheta	0.5	Archived - Old	Mar 29, 2023	Mar 29, 2023	miscellaneous tasks	P1	backend
 add "reset" button in Barangay Checklist page	https://github.com/cgob-mitd-dev/egov-bebs/issues/49	KarstnAncheta	1	Archived - Old	Apr 4, 2023	Apr 4, 2023	miscellaneous tasks	P3	frontend
 update account modal	https://github.com/cgob-mitd-dev/egov-bebs/issues/47	KarstnAncheta	1	Archived - Old	Apr 1, 2023	Apr 1, 2023	miscellaneous tasks	P1	enhancement, frontend
 add tooltip in barangay card	https://github.com/cgob-mitd-dev/egov-bebs/issues/57	KarstnAncheta	0.5	Archived - Old	Apr 11, 2023	Apr 11, 2023	miscellaneous tasks	P3	enhancement, frontend
 remove particulars mode, controller, and FKs	https://github.com/cgob-mitd-dev/egov-bebs/issues/19	KarstnAncheta	2	Archived - Old	Mar 9, 2023	Mar 9, 2023	miscellaneous tasks	P2	backend
-add frontend authentication	https://github.com/cgob-mitd-dev/egov-bebs/issues/20	KarstnAncheta	40	Archived - Old	Mar 24, 2023	Mar 30, 2023	mvp	P2	frontend
+Add frontend authentication for routes	https://github.com/cgob-mitd-dev/egov-bebs/issues/20	KarstnAncheta	40	Archived - Old	Mar 24, 2023	Mar 30, 2023	miscellaneous tasks	P1	frontend
 update account codes JSON	https://github.com/cgob-mitd-dev/egov-bebs/issues/13	KarstnAncheta	0.5	Archived - Old	Mar 13, 2023	Mar 13, 2023	miscellaneous tasks	P1	backend
-add initial commit	https://github.com/cgob-mitd-dev/egov-bebs/issues/1	KarstnAncheta	2	Archived - Old	Feb 24, 2023	Feb 24, 2023	mvp	P2	good first issue
-add initial resource in API endpoints	https://github.com/cgob-mitd-dev/egov-bebs/issues/15	KarstnAncheta	2	Archived - Old	Mar 13, 2023	Mar 13, 2023	mvp	P2	backend
-add initial controller CRUD functions for forms	https://github.com/cgob-mitd-dev/egov-bebs/issues/9	KarstnAncheta	80	Archived - Old	Feb 28, 2023	Mar 9, 2023	mvp	P2	backend
-add initial relationships for models	https://github.com/cgob-mitd-dev/egov-bebs/issues/11	KarstnAncheta	32	Archived - Old	Mar 2, 2023	Mar 6, 2023	mvp	P2	backend
-add initial models	https://github.com/cgob-mitd-dev/egov-bebs/issues/2	KarstnAncheta	8	Archived - Old	Feb 24, 2023	Feb 24, 2023	mvp	P2	backend
+Add resources for models	https://github.com/cgob-mitd-dev/egov-bebs/issues/15	KarstnAncheta	8	Archived - Old	Mar 13, 2023	Mar 13, 2023	miscellaneous tasks	P3	backend
+Add initial CRUD functions	https://github.com/cgob-mitd-dev/egov-bebs/issues/9	KarstnAncheta	80	Archived - Old	Feb 28, 2023	Mar 9, 2023	mvp	P2	backend
+Add model relationships	https://github.com/cgob-mitd-dev/egov-bebs/issues/11	KarstnAncheta	32	Archived - Old	Mar 2, 2023	Mar 6, 2023	mvp	P2	backend
 update migration 'double' values	https://github.com/cgob-mitd-dev/egov-bebs/issues/22	KarstnAncheta	2	Archived - Old	Mar 13, 2023	Mar 13, 2023	miscellaneous tasks	P1	backend
-add initial migrations	https://github.com/cgob-mitd-dev/egov-bebs/issues/3	KarstnAncheta	2	Archived - Old	Feb 24, 2023	Feb 24, 2023	mvp	P2	backend
-add initial seeders	https://github.com/cgob-mitd-dev/egov-bebs/issues/4	KarstnAncheta	2	Archived - Old	Feb 24, 2023	Feb 24, 2023	mvp	P2	backend
-add initial controller CRUD functions for enums	https://github.com/cgob-mitd-dev/egov-bebs/issues/5	KarstnAncheta	40	Archived - Old	Feb 24, 2023	Feb 28, 2023	mvp	P2	backend
+Add initial seeders	https://github.com/cgob-mitd-dev/egov-bebs/issues/4	KarstnAncheta	8	Archived - Old	Feb 24, 2023	Feb 24, 2023	mvp	P2	backend
+Add initial controller CRUD functions for enums	https://github.com/cgob-mitd-dev/egov-bebs/issues/5	KarstnAncheta	40	Archived - Old	Feb 24, 2023	Feb 28, 2023	mvp	P2	backend
 refactor method names	https://github.com/cgob-mitd-dev/egov-bebs/issues/18	KarstnAncheta	4	Archived - Old	Mar 9, 2023	Mar 9, 2023	miscellaneous tasks	P3	backend
-feat (backend) ✨added initial CRUD for enums	https://github.com/cgob-mitd-dev/egov-bebs/pull/10	KarstnAncheta	2	Archived - Old	Feb 28, 2023	Feb 28, 2023	mvp	P2	backend
-feat (backend) ✨add soft delete	https://github.com/cgob-mitd-dev/egov-bebs/pull/8	KarstnAncheta	2	Archived - Old	Feb 27, 2023	Feb 27, 2023	mvp	P2	backend
-add soft delete capability in models and migrations	https://github.com/cgob-mitd-dev/egov-bebs/issues/7	KarstnAncheta	2	Archived - Old	Feb 27, 2023	Feb 27, 2023	mvp	P2	backend
-add profile and personnel relationship	https://github.com/cgob-mitd-dev/egov-bebs/issues/17	KarstnAncheta	1	Archived - Old	Mar 9, 2023	Mar 9, 2023	mvp	P2	backend
+Add soft delete in models and migrations	https://github.com/cgob-mitd-dev/egov-bebs/issues/7	KarstnAncheta	4	Archived - Old	Feb 27, 2023	Feb 27, 2023	mvp	P2	backend
+add profile and personnel relationship	https://github.com/cgob-mitd-dev/egov-bebs/issues/17	KarstnAncheta	1	Archived - Old	Mar 9, 2023	Mar 9, 2023	miscellaneous tasks	P1	backend
 update database	https://github.com/cgob-mitd-dev/egov-bebs/issues/23	KarstnAncheta	32	Archived - Old	Mar 27, 2023	Mar 29, 2023	miscellaneous tasks	P1	backend
+Add character limits to strings in requests	https://github.com/cgob-mitd-dev/egov-bebs/issues/276		8	Todo P3			miscellaneous tasks	P1	backend, enhancement
+Add policies for SK User Module	https://github.com/cgob-mitd-dev/egov-bebs/issues/274		8	Todo P3			sk module	P3	backend, enhancement
+Add transaction for multi-update/multi-delete functions	https://github.com/cgob-mitd-dev/egov-bebs/issues/273	KarstnAncheta	4	Done	Oct 16, 2023	Oct 16, 2023	miscellaneous tasks	P3	backend, enhancement
+Add asterisk to symbolize a required field	https://github.com/cgob-mitd-dev/egov-bebs/issues/275	KarstnAncheta	8	Done	Oct 16, 2023	Oct 16, 2023	miscellaneous tasks	P3	enhancement, frontend
 Optimize ChecklistController@getControlValuesByBarangayIdAndByYear	https://github.com/cgob-mitd-dev/egov-bebs/issues/204		4	Todo P3			miscellaneous tasks	P3	backend, enhancement
 Optimize BbsFormController@getForm1	https://github.com/cgob-mitd-dev/egov-bebs/issues/205		4	Todo P3			miscellaneous tasks	P3	backend, enhancement
 Optimize ChecklistController@createChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/203		2	Todo P3			miscellaneous tasks	P3	backend, enhancement
-Utilize SSO	https://github.com/cgob-mitd-dev/egov-bebs/issues/113			Done			miscellaneous tasks		backend, enhancement, wontfix
 Add downloadable Template for the Resolutions and Ordinances	https://github.com/cgob-mitd-dev/egov-bebs/issues/103	KarstnAncheta	8	On Hold			miscellaneous tasks	P1	backend, frontend
-Create PowerPoint for various user modules	https://github.com/cgob-mitd-dev/egov-bebs/issues/199	KarstnAncheta	8	On Hold	Oct 9, 2023		miscellaneous tasks		documentation
-Add SK Module Frontend	https://github.com/cgob-mitd-dev/egov-bebs/issues/244	KarstnAncheta	40	Done	Oct 1, 2023	Oct 11, 2023	sk module	P2	frontend
-Add SK Generated Forms	https://github.com/cgob-mitd-dev/egov-bebs/issues/243	KarstnAncheta	40	Done	Oct 5, 2023	Oct 11, 2023	sk module	P2	backend
-Fix Project Details Modal Overflow	https://github.com/cgob-mitd-dev/egov-bebs/issues/114		8	Todo P1			miscellaneous tasks	P1	bug, enhancement, frontend
+Fix Project Details Modal Overflow	https://github.com/cgob-mitd-dev/egov-bebs/issues/114		8	Done			miscellaneous tasks	P1	bug, frontend
+Fix Update SK Personnel bug	https://github.com/cgob-mitd-dev/egov-bebs/issues/272	KarstnAncheta	8	Done	Oct 17, 2023	Oct 17, 2023	sk module	P1	backend, bug
+Add log history for admin module	https://github.com/cgob-mitd-dev/egov-bebs/issues/277		16	Todo P1			miscellaneous tasks	P1	backend, enhancement, frontend
+Show necessary positions in PersonnelModal.vue	https://github.com/cgob-mitd-dev/egov-bebs/issues/283	KarstnAncheta	4	Done	Oct 18, 2023	Oct 18, 2023	miscellaneous tasks	P1	enhancement, frontend
+Update users page and APIs	https://github.com/cgob-mitd-dev/egov-bebs/issues/282	KarstnAncheta	16	Todo P1			miscellaneous tasks	P1	backend, enhancement, frontend
+Add sk personnel requests	https://github.com/cgob-mitd-dev/egov-bebs/issues/284	KarstnAncheta	2	Done	Oct 18, 2023	Oct 18, 2023	miscellaneous tasks	P1	backend, enhancement
+Add images for factory and layer supertype patterns	https://github.com/cgob-mitd-dev/egov-bebs/issues/269	KarstnAncheta	0.5	Archived - New	Oct 12, 2023	Oct 12, 2023	miscellaneous tasks	P3	documentation
+Sk Budget List View	https://github.com/cgob-mitd-dev/egov-bebs/issues/263	KarstnAncheta	8	Archived - New	Oct 6, 2023	Oct 6, 2023	sk module	P2	backend, frontend
+Fix permissions seeding error	https://github.com/cgob-mitd-dev/egov-bebs/issues/264	KarstnAncheta	0.5	Archived - New	Oct 8, 2023	Oct 8, 2023	miscellaneous tasks	P1	backend, bug
+Add Update SkBudgetChecklist status functionality	https://github.com/cgob-mitd-dev/egov-bebs/issues/266	KarstnAncheta	2	Archived - New	Oct 11, 2023	Oct 11, 2023	miscellaneous tasks	P1	enhancement, frontend
+Add SK Generated Forms	https://github.com/cgob-mitd-dev/egov-bebs/issues/243	KarstnAncheta	40	Archived - New	Oct 5, 2023	Oct 11, 2023	sk module	P2	backend
+Add SK Module Frontend	https://github.com/cgob-mitd-dev/egov-bebs/issues/244	KarstnAncheta	40	Archived - New	Oct 1, 2023	Oct 11, 2023	sk module	P2	frontend
+Add SK Uploadable Files	https://github.com/cgob-mitd-dev/egov-bebs/issues/262		4	Archived - New	Oct 10, 2023	Oct 10, 2023	sk module	P2	backend, enhancement, frontend
+Update ProcurementItem Modal to make it more reusable	https://github.com/cgob-mitd-dev/egov-bebs/issues/223	KarstnAncheta	2	Archived - New	Oct 4, 2023	Oct 4, 2023	sk module	P2	enhancement, frontend
+Update Profile model and migration to use soft delete	https://github.com/cgob-mitd-dev/egov-bebs/issues/233	KarstnAncheta	8	Archived - New	Oct 10, 2023	Oct 10, 2023	miscellaneous tasks	P1	backend, bug
+Hide non-Sk actions from other user roles	https://github.com/cgob-mitd-dev/egov-bebs/issues/267	KarstnAncheta	1	Archived - New	Oct 11, 2023	Oct 11, 2023	miscellaneous tasks	P1	enhancement, frontend
+Update README.md and system-architecture-overview.md	https://github.com/cgob-mitd-dev/egov-bebs/issues/271	KarstnAncheta	0.5	Archived - New	Oct 13, 2023	Oct 13, 2023	miscellaneous tasks	P3	documentation
+Update SK Personnel Model	https://github.com/cgob-mitd-dev/egov-bebs/issues/260	KarstnAncheta	0.5	Archived - New	Oct 1, 2023	Oct 1, 2023	miscellaneous tasks	P1	backend, enhancement
+Update ExpenditureClass Modal to make it more reusable	https://github.com/cgob-mitd-dev/egov-bebs/issues/225	KarstnAncheta	2	Archived - New	Oct 4, 2023	Oct 4, 2023	sk module	P2	enhancement, frontend
+Utilize SSO	https://github.com/cgob-mitd-dev/egov-bebs/issues/113			Archived - New			miscellaneous tasks		backend, enhancement, wontfix
 Rename Ppa => AipPpa	https://github.com/cgob-mitd-dev/egov-bebs/issues/211	KarstnAncheta	2	Archived - New	Sep 18, 2023	Sep 18, 2023	sk module	P2	backend, enhancement
 Setup Backend Sk Budget Module	https://github.com/cgob-mitd-dev/egov-bebs/issues/192	KarstnAncheta	80	Archived - New	Sep 9, 2023	Sep 21, 2023	sk module	P2	backend, enhancement, frontend
 Update builder per model to fit both Barangay and Sk needs	https://github.com/cgob-mitd-dev/egov-bebs/issues/239	KarstnAncheta	4	Archived - New			sk module	P2	backend, enhancement, wontfix
@@ -164,7 +180,7 @@ Revamp Form Equipment	https://github.com/cgob-mitd-dev/egov-bebs/issues/176	Kars
 Revamp Form 1	https://github.com/cgob-mitd-dev/egov-bebs/issues/127	KarstnAncheta	8	Archived - New	Aug 22, 2023	Aug 23, 2023	miscellaneous tasks	P1	backend, enhancement, frontend
 Rename Approval to Checklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/125	KarstnAncheta	4	Archived - New	Aug 25, 2023	Aug 25, 2023	miscellaneous tasks	P3	backend, enhancement, frontend
 Update PersonnelController API	https://github.com/cgob-mitd-dev/egov-bebs/issues/120	KarstnAncheta	4	Archived - New	Aug 24, 2023	Aug 24, 2023	miscellaneous tasks	P1	backend, enhancement
-Add Policy for Ppa CRUD	https://github.com/cgob-mitd-dev/egov-bebs/issues/186	KarstnAncheta	2	Archived - New	Aug 25, 2023	Aug 25, 2023	mvp	P2	backend
+Add Policy for Ppa CRUD	https://github.com/cgob-mitd-dev/egov-bebs/issues/186	KarstnAncheta	2	Archived - New	Aug 25, 2023	Aug 25, 2023	miscellaneous tasks	P1	backend
 Revamp Form 3	https://github.com/cgob-mitd-dev/egov-bebs/issues/171	KarstnAncheta	4	Archived - New	Aug 19, 2023	Aug 19, 2023	miscellaneous tasks	P1	backend, enhancement, frontend
 Revamp Form 2A	https://github.com/cgob-mitd-dev/egov-bebs/issues/173	KarstnAncheta	8	Archived - New	Aug 19, 2023	Aug 20, 2023	miscellaneous tasks	P1	backend, enhancement, frontend
 Show control value computations	https://github.com/cgob-mitd-dev/egov-bebs/issues/193	KarstnAncheta	4	Archived - New	Aug 31, 2023	Aug 31, 2023	miscellaneous tasks	P1	backend, enhancement, frontend
@@ -176,17 +192,12 @@ Revamp Form 2	https://github.com/cgob-mitd-dev/egov-bebs/issues/111	KarstnAnchet
 Remove debugging message in Expenditure Class Modal	https://github.com/cgob-mitd-dev/egov-bebs/issues/116	KarstnAncheta	1	Archived - New	Jul 6, 2023	Jul 6, 2023	miscellaneous tasks	P3	bug, frontend
 Add Employment Date in Personnel Resource	https://github.com/cgob-mitd-dev/egov-bebs/issues/115	KarstnAncheta	0.5	Archived - New	Jul 6, 2023	Jul 6, 2023	miscellaneous tasks	P1	backend, bug
 Add "No Debts" message	https://github.com/cgob-mitd-dev/egov-bebs/issues/118	KarstnAncheta	0.5	Archived - New	Jul 6, 2023	Jul 6, 2023	miscellaneous tasks	P3	enhancement, frontend
-Add "Development Project" Identifier	https://github.com/cgob-mitd-dev/egov-bebs/issues/119	KarstnAncheta	1	Archived - New	Jul 6, 2023	Jul 6, 2023	mvp	P1	enhancement, frontend
+Add "Development Project" Identifier	https://github.com/cgob-mitd-dev/egov-bebs/issues/119	KarstnAncheta	1	Archived - New	Jul 6, 2023	Jul 6, 2023	miscellaneous tasks	P1	enhancement, frontend
 Update Feedback Page	https://github.com/cgob-mitd-dev/egov-bebs/issues/124	KarstnAncheta	1	Archived - New	Jul 6, 2023	Jul 6, 2023	miscellaneous tasks	P1	enhancement, frontend
 Update Date Fields Style	https://github.com/cgob-mitd-dev/egov-bebs/issues/123	KarstnAncheta	4	Archived - New	Jul 6, 2023	Jul 6, 2023	miscellaneous tasks	P3	enhancement, frontend
 Use abort instead of json response for errors	https://github.com/cgob-mitd-dev/egov-bebs/issues/151	KarstnAncheta	2	Archived - New	Jul 11, 2023	Jul 11, 2023	miscellaneous tasks	P3	backend, enhancement
 Update Project Details Modal UI	https://github.com/cgob-mitd-dev/egov-bebs/issues/122	KarstnAncheta	2	Archived - New	Jul 6, 2023	Jul 6, 2023	miscellaneous tasks	P3	enhancement, frontend
-Add Update SkBudgetChecklist status functionality	https://github.com/cgob-mitd-dev/egov-bebs/issues/266	KarstnAncheta	2	Done	Oct 11, 2023	Oct 11, 2023	miscellaneous tasks	P1	enhancement, frontend
-Add SK Uploadable Files	https://github.com/cgob-mitd-dev/egov-bebs/issues/262		4	Done	Oct 10, 2023	Oct 10, 2023	sk module	P2	backend, enhancement, frontend
-Fix permissions seeding error	https://github.com/cgob-mitd-dev/egov-bebs/issues/264	KarstnAncheta	0.5	Done	Oct 8, 2023	Oct 8, 2023	miscellaneous tasks	P1	backend, bug
-Sk Budget List View	https://github.com/cgob-mitd-dev/egov-bebs/issues/263	KarstnAncheta	8	Done	Oct 6, 2023	Oct 6, 2023	sk module	P2	backend, frontend
-Update ProcurementItem Modal to make it more reusable	https://github.com/cgob-mitd-dev/egov-bebs/issues/223	KarstnAncheta	2	Done	Oct 4, 2023	Oct 4, 2023	sk module	P2	enhancement, frontend
-Update Profile model and migration to use soft delete	https://github.com/cgob-mitd-dev/egov-bebs/issues/233	KarstnAncheta	8	Done	Oct 10, 2023	Oct 10, 2023	miscellaneous tasks	P1	backend, bug
-Hide non-Sk actions from other user roles	https://github.com/cgob-mitd-dev/egov-bebs/issues/267	KarstnAncheta	1	Done	Oct 11, 2023	Oct 11, 2023	miscellaneous tasks	P1	enhancement, frontend
-Update SK Personnel Model	https://github.com/cgob-mitd-dev/egov-bebs/issues/260	KarstnAncheta	0.5	Done	Oct 1, 2023	Oct 1, 2023	miscellaneous tasks	P1	backend, enhancement
-Update ExpenditureClass Modal to make it more reusable	https://github.com/cgob-mitd-dev/egov-bebs/issues/225	KarstnAncheta	2	Done	Oct 4, 2023	Oct 4, 2023	sk module	P2	enhancement, frontend
+Fix SK Procurement Forms empty end users	https://github.com/cgob-mitd-dev/egov-bebs/issues/278	KarstnAncheta	1	Done	Oct 16, 2023	Oct 16, 2023	sk module	P1	bug, frontend
+Fix SK form 3 empty sk chairman	https://github.com/cgob-mitd-dev/egov-bebs/issues/280	KarstnAncheta	1	Done	Oct 16, 2023	Oct 16, 2023	sk module	P1	backend, bug
+Update Form UIs	https://github.com/cgob-mitd-dev/egov-bebs/issues/281	KarstnAncheta	4	Done	Oct 17, 2023	Oct 17, 2023	miscellaneous tasks	P3	enhancement, frontend
+Update README.md	https://github.com/cgob-mitd-dev/egov-bebs/issues/285	KarstnAncheta	1	Done	Oct 20, 2023	Oct 20, 2023	miscellaneous tasks	P1	documentation

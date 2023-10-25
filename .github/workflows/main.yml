@@ -1,7 +1,30 @@
 on:
   workflow_dispatch:
   schedule:
-    - cron: '40 8 25 9 *'
+    - cron: '0 9 15 1 *'
+    - cron: '0 9 15 2 *'
+    - cron: '0 9 15 3 *'
+    - cron: '0 9 15 4 *'
+    - cron: '0 9 15 5 *'
+    - cron: '0 9 15 6 *'
+    - cron: '0 9 15 7 *'
+    - cron: '0 9 15 8 *'
+    - cron: '0 9 15 9 *'
+    - cron: '0 9 15 10 *'
+    - cron: '0 9 15 11 *'
+    - cron: '0 9 15 12 *'
+    - cron: '0 9 31 1 *'
+    - cron: '0 9 28 2 *'
+    - cron: '0 9 31 3 *'
+    - cron: '0 9 30 4 *'
+    - cron: '0 9 31 5 *'
+    - cron: '0 9 30 6 *'
+    - cron: '0 9 31 7 *'
+    - cron: '0 9 31 8 *'
+    - cron: '0 9 30 9 *'
+    - cron: '0 9 31 10 *'
+    - cron: '0 9 30 11 *'
+    - cron: '0 9 31 12 *'
 
 jobs:
 

@@ -87,17 +87,56 @@ add profile and personnel relationship	https://github.com/cgob-mitd-dev/egov-beb
 update database	https://github.com/cgob-mitd-dev/egov-bebs/issues/23	KarstnAncheta	32	Archived - Old	Mar 27, 2023	Mar 29, 2023	miscellaneous tasks	P1	backend
 Add character limits to strings in requests	https://github.com/cgob-mitd-dev/egov-bebs/issues/276		8	Todo P3			miscellaneous tasks	P1	backend, enhancement
 Add policies for SK User Module	https://github.com/cgob-mitd-dev/egov-bebs/issues/274		8	Todo P3			sk module	P3	backend, enhancement
+Add submitChecklist for SupplementalBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/296	KarstnAncheta	1	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add destroyExpenditureClass for SupplementalBarangayExpenditureClass	https://github.com/cgob-mitd-dev/egov-bebs/issues/313	KarstnAncheta	1	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+add addProcurementItemErrors for SupplementalBarangayBudgetProcurementItem	https://github.com/cgob-mitd-dev/egov-bebs/issues/318	KarstnAncheta	1	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+add markAsReviewed for SupplementalBarangayBudgetProcurementItem	https://github.com/cgob-mitd-dev/egov-bebs/issues/319	KarstnAncheta	1	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+add destroyProcurementItem for SupplementalBarangayProcurementItem	https://github.com/cgob-mitd-dev/egov-bebs/issues/317	KarstnAncheta	1	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add updateProcurementItem for SupplementalBarangayProcurementItem	https://github.com/cgob-mitd-dev/egov-bebs/issues/316	KarstnAncheta	2	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add createProcurementItem for SupplementalBarangayProcurementItem	https://github.com/cgob-mitd-dev/egov-bebs/issues/315	KarstnAncheta	2	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add getProcurementItemById for SupplementalBarangayProcurementItem	https://github.com/cgob-mitd-dev/egov-bebs/issues/314	KarstnAncheta	2	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+add getProcurementItemsByProcurementId for SupplementalBarangayProcurement	https://github.com/cgob-mitd-dev/egov-bebs/issues/320	KarstnAncheta	2	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add updateExpenditureClass for SupplementalBarangayExpenditureClass	https://github.com/cgob-mitd-dev/egov-bebs/issues/312	KarstnAncheta	2	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add createExpenditureClass for SupplementalBarangayExpenditureClass	https://github.com/cgob-mitd-dev/egov-bebs/issues/311	KarstnAncheta	2	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+add markAsReviewed for SaipPpa	https://github.com/cgob-mitd-dev/egov-bebs/issues/307	KarstnAncheta	1	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add getExpenditureClassesByPpaId for SaipPpa	https://github.com/cgob-mitd-dev/egov-bebs/issues/310	KarstnAncheta	2	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+add updatePpa SaipPpa	https://github.com/cgob-mitd-dev/egov-bebs/issues/304	KarstnAncheta	2	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+add addPpaErrors for SaipPpa	https://github.com/cgob-mitd-dev/egov-bebs/issues/306	KarstnAncheta	1	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+add getPersonnelByPpaId for SaipPpa	https://github.com/cgob-mitd-dev/egov-bebs/issues/308	KarstnAncheta	2	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+add destroyPpa for SaipPpa	https://github.com/cgob-mitd-dev/egov-bebs/issues/305	KarstnAncheta	1	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+add getProcurementItemsByPpaId for SaipPpa	https://github.com/cgob-mitd-dev/egov-bebs/issues/309	KarstnAncheta	2	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+add createPpa for SaipPpa	https://github.com/cgob-mitd-dev/egov-bebs/issues/303	KarstnAncheta	2	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+add getPpaByIdWithExpenses for SaipPpa	https://github.com/cgob-mitd-dev/egov-bebs/issues/302	KarstnAncheta	4	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+add getPpaById for SaipPpa	https://github.com/cgob-mitd-dev/egov-bebs/issues/301	KarstnAncheta	4	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+add DB::commit for destroyReference in AipReferenceService	https://github.com/cgob-mitd-dev/egov-bebs/issues/339	KarstnAncheta	1	Done	Oct 24, 2023	Oct 24, 2023	miscellaneous tasks	P1	backend, bug
+Add destroyReference for SaipReference	https://github.com/cgob-mitd-dev/egov-bebs/issues/338	KarstnAncheta	2	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add updateReference for SaipReference	https://github.com/cgob-mitd-dev/egov-bebs/issues/337	KarstnAncheta	2	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add createReference for SaipReference	https://github.com/cgob-mitd-dev/egov-bebs/issues/336	KarstnAncheta	2	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add getReferencesWithPpasBySaipId for Saip	https://github.com/cgob-mitd-dev/egov-bebs/issues/300	KarstnAncheta	1	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
 Add transaction for multi-update/multi-delete functions	https://github.com/cgob-mitd-dev/egov-bebs/issues/273	KarstnAncheta	4	Done	Oct 16, 2023	Oct 16, 2023	miscellaneous tasks	P3	backend, enhancement
 Add asterisk to symbolize a required field	https://github.com/cgob-mitd-dev/egov-bebs/issues/275	KarstnAncheta	8	Done	Oct 16, 2023	Oct 16, 2023	miscellaneous tasks	P3	enhancement, frontend
+Add getChecklistStatusesStatistic for SupplementalBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/290		8	Todo P3			miscellaneous tasks	P3	backend
 Optimize ChecklistController@getControlValuesByBarangayIdAndByYear	https://github.com/cgob-mitd-dev/egov-bebs/issues/204		4	Todo P3			miscellaneous tasks	P3	backend, enhancement
 Optimize BbsFormController@getForm1	https://github.com/cgob-mitd-dev/egov-bebs/issues/205		4	Todo P3			miscellaneous tasks	P3	backend, enhancement
 Optimize ChecklistController@createChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/203		2	Todo P3			miscellaneous tasks	P3	backend, enhancement
 Add downloadable Template for the Resolutions and Ordinances	https://github.com/cgob-mitd-dev/egov-bebs/issues/103	KarstnAncheta	8	On Hold			miscellaneous tasks	P1	backend, frontend
+Add log history for admin module	https://github.com/cgob-mitd-dev/egov-bebs/issues/277		16	On Hold			miscellaneous tasks	P1	backend, enhancement, frontend
+Update users page and APIs	https://github.com/cgob-mitd-dev/egov-bebs/issues/282	KarstnAncheta	16	On Hold			miscellaneous tasks	P1	backend, enhancement, frontend
+Add End Of The Year Overview CSV	https://github.com/cgob-mitd-dev/egov-bebs/issues/333	KarstnAncheta	16	On Hold			miscellaneous tasks	P1	backend, enhancement
+add uploadChecklistFile for SupplementalBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/299	KarstnAncheta	1	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add getChecklists for SupplementalBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/291	KarstnAncheta	4	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add getChecklist for SupplementalBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/292	KarstnAncheta	4	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add getChecklistFile for SupplementalBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/293	KarstnAncheta	4	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+add destroyChecklistFile for SupplementalBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/298	KarstnAncheta	1	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add getChecklistFiles for SupplementalBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/294	KarstnAncheta	4	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add createChecklist for SupplementalBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/295	KarstnAncheta	1	Done	Oct 25, 2023	Oct 25, 2023	supplemental module	P2	backend
+Add updateChecklistStatus for SupplementalBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/297	KarstnAncheta	1	Done	Oct 24, 2023	Oct 24, 2023	supplemental module	P2	backend
+Add additional BudgetingChecklist file column	https://github.com/cgob-mitd-dev/egov-bebs/issues/286	KarstnAncheta	8	On Hold			miscellaneous tasks	P1	backend, enhancement, frontend
+Add Models and Migrations for SupplementalBarangayBudget	https://github.com/cgob-mitd-dev/egov-bebs/issues/288	KarstnAncheta	8	Done	Oct 23, 2023	Oct 23, 2023	supplemental module	P2	backend
+Fix add SK Personnel Errors	https://github.com/cgob-mitd-dev/egov-bebs/issues/335	KarstnAncheta	2	Done	Oct 23, 2023	Oct 23, 2023	miscellaneous tasks	P1	backend, bug, enhancement
 Fix Project Details Modal Overflow	https://github.com/cgob-mitd-dev/egov-bebs/issues/114		8	Done			miscellaneous tasks	P1	bug, frontend
 Fix Update SK Personnel bug	https://github.com/cgob-mitd-dev/egov-bebs/issues/272	KarstnAncheta	8	Done	Oct 17, 2023	Oct 17, 2023	sk module	P1	backend, bug
-Add log history for admin module	https://github.com/cgob-mitd-dev/egov-bebs/issues/277		16	Todo P1			miscellaneous tasks	P1	backend, enhancement, frontend
 Show necessary positions in PersonnelModal.vue	https://github.com/cgob-mitd-dev/egov-bebs/issues/283	KarstnAncheta	4	Done	Oct 18, 2023	Oct 18, 2023	miscellaneous tasks	P1	enhancement, frontend
-Update users page and APIs	https://github.com/cgob-mitd-dev/egov-bebs/issues/282	KarstnAncheta	16	Todo P1			miscellaneous tasks	P1	backend, enhancement, frontend
 Add sk personnel requests	https://github.com/cgob-mitd-dev/egov-bebs/issues/284	KarstnAncheta	2	Done	Oct 18, 2023	Oct 18, 2023	miscellaneous tasks	P1	backend, enhancement
 Add images for factory and layer supertype patterns	https://github.com/cgob-mitd-dev/egov-bebs/issues/269	KarstnAncheta	0.5	Archived - New	Oct 12, 2023	Oct 12, 2023	miscellaneous tasks	P3	documentation
 Sk Budget List View	https://github.com/cgob-mitd-dev/egov-bebs/issues/263	KarstnAncheta	8	Archived - New	Oct 6, 2023	Oct 6, 2023	sk module	P2	backend, frontend
@@ -201,3 +240,19 @@ Fix SK Procurement Forms empty end users	https://github.com/cgob-mitd-dev/egov-b
 Fix SK form 3 empty sk chairman	https://github.com/cgob-mitd-dev/egov-bebs/issues/280	KarstnAncheta	1	Done	Oct 16, 2023	Oct 16, 2023	sk module	P1	backend, bug
 Update Form UIs	https://github.com/cgob-mitd-dev/egov-bebs/issues/281	KarstnAncheta	4	Done	Oct 17, 2023	Oct 17, 2023	miscellaneous tasks	P3	enhancement, frontend
 Update README.md	https://github.com/cgob-mitd-dev/egov-bebs/issues/285	KarstnAncheta	1	Done	Oct 20, 2023	Oct 20, 2023	miscellaneous tasks	P1	documentation
+Supplemental Budget Sprint Planning	https://github.com/cgob-mitd-dev/egov-bebs/issues/287	KarstnAncheta	16	Done	Oct 21, 2023	Oct 23, 2023	supplemental module	P2	planning
+add Funding Sources for SK Budget	https://github.com/cgob-mitd-dev/egov-bebs/issues/334	KarstnAncheta	8	Done	Oct 23, 2023	Oct 23, 2023	miscellaneous tasks	P1	backend, enhancement, frontend
+Add  SupplementalBarangayBudgetFormController.php and SupplementalBarangayBudgetFormService.php	https://github.com/cgob-mitd-dev/egov-bebs/issues/289	KarstnAncheta	40	Todo P2			supplemental module	P2	backend
+Add Supplemental Barangay Uploadable Files Page	https://github.com/cgob-mitd-dev/egov-bebs/issues/332	KarstnAncheta	4	Todo P2			supplemental module	P2	frontend
+Add Supplemental Plan and Budget Page	https://github.com/cgob-mitd-dev/egov-bebs/issues/331	KarstnAncheta	4	Todo P2			supplemental module	P2	frontend
+Add Supplemental Barangay Checklist Page	https://github.com/cgob-mitd-dev/egov-bebs/issues/330	KarstnAncheta	4	Done	Oct 25, 2023	Oct 25, 2023	supplemental module	P2	frontend
+Add Supplemental Barangay index page	https://github.com/cgob-mitd-dev/egov-bebs/issues/329	KarstnAncheta	4	Done	Oct 25, 2023	Oct 25, 2023	supplemental module	P2	frontend
+Add Development Projects Form for Supplemental Barangay Budget	https://github.com/cgob-mitd-dev/egov-bebs/issues/328	KarstnAncheta	4	Todo P2			supplemental module	P2	frontend
+Add BDRRM Form for Supplemental Barangay Budget	https://github.com/cgob-mitd-dev/egov-bebs/issues/327	KarstnAncheta	4	Todo P2			supplemental module	P2	frontend
+Add Others Procurement Form for Supplemental Barangay Budget	https://github.com/cgob-mitd-dev/egov-bebs/issues/326	KarstnAncheta	4	Todo P2			supplemental module	P2	frontend
+Add Equipment Procurement Form for Supplemental Barangay Budget	https://github.com/cgob-mitd-dev/egov-bebs/issues/325	KarstnAncheta	4	Todo P2			supplemental module	P2	frontend
+Add Supplies Procurement Form for Supplemental Barangay Budget	https://github.com/cgob-mitd-dev/egov-bebs/issues/324	KarstnAncheta	4	Todo P2			supplemental module	P2	frontend
+Add Form 6	https://github.com/cgob-mitd-dev/egov-bebs/issues/323	KarstnAncheta	16	Todo P2			supplemental module	P2	frontend
+Add Form 5	https://github.com/cgob-mitd-dev/egov-bebs/issues/322	KarstnAncheta	16	Todo P2			supplemental module	P2	frontend
+Add SAIP Form	https://github.com/cgob-mitd-dev/egov-bebs/issues/321	KarstnAncheta	4	Todo P2			supplemental module	P2	frontend
+Fix Plan and Budget page not showing	https://github.com/cgob-mitd-dev/egov-bebs/issues/341	KarstnAncheta	0.5	Done	Oct 25, 2023	Oct 25, 2023	miscellaneous tasks	P1	bug, frontend

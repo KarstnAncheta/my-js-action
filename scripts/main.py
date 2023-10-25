@@ -41,7 +41,7 @@ DEVELOPER_DETAILS = {
     'date_hired': datetime(2023, 1, 16)
 }
 RENDER_DATES = [
-    datetime(2023, 10, 16)
+    datetime(2023, 10, 21)
 ]
 REVIEWER_DETAILS = {
     'name': 'Patrick V. Vinluan',
@@ -115,7 +115,12 @@ def generate_accomplishment_report(data_frame: pd.DataFrame, project_name: str) 
     ], axis=1)
 
     # Get tasks under the "In Progress" and "Done" column
-    tasks = data_frame[(data_frame['Status'] == 'In Progress') | (data_frame['Status'] == 'Done')]
+    tasks = data_frame[(data_frame['Status'].isin(['In Progress', 'Done']))]
+
+    rendered_tasks = data_frame[(data_frame['Date Started'] <= RENDER_DATES[0]) & (data_frame['Date Completed'] >= RENDER_DATES[0])]
+
+    # Exclude tasks within the RENDER_DATES timeframe from tasks DataFrame
+    tasks = tasks[~tasks.index.isin(rendered_tasks.index)]
 
     # DOCUMENT TEMPLATE
     doc = DocxTemplate('AR-template.docx')
@@ -133,7 +138,7 @@ def generate_accomplishment_report(data_frame: pd.DataFrame, project_name: str) 
     image_data_array = []
     for image_file in image_files:
         image_path = os.path.join(directory_path, image_file)
-        image_data = InlineImage(doc, image_path, width=512 * 9525, height=380 * 9525)  # EMU calculations
+        image_data = InlineImage(doc, image_path, width=512 * 9525, height=320 * 9525)  # EMU calculations
         image_data_array.append(image_data)
 
     data = {
@@ -147,9 +152,12 @@ def generate_accomplishment_report(data_frame: pd.DataFrame, project_name: str) 
         'tc': calculate_cutoffs(DEVELOPER_DETAILS['date_hired'], formatted_datetime),
         'modules': tasks['Module Label'].unique(),
         "image_data_array": image_data_array,
-        'tasks': [{key.replace(' ', '_'): value for key, value in record.items()} for record in tasks.to_dict(orient='records')]
+        'tasks': [{key.replace(' ', '_'): value for key, value in record.items()} for record in tasks.to_dict(orient='records')],
+        'rendered_tasks': [{key.replace(' ', '_'): value for key, value in record.items()} for record in rendered_tasks.to_dict(orient='records')]
     }
     doc.render(data)
+
+    # print(data['tasks'])
 
     # Creates the directory if it does not exist
     date_today = date.today()
@@ -361,13 +369,13 @@ def main() -> None:
     generate_accomplishment_report(data_frame=df, project_name=PROJECT_NAME)
 
     # Save actual timeline as image
-    generate_project_actual_timeline_as_img(data_frame=df, project_name=PROJECT_NAME)
+    # generate_project_actual_timeline_as_img(data_frame=df, project_name=PROJECT_NAME)
 
     # Save projected timeline as image
-    generate_project_projected_timeline_as_img(data_frame=df, project_name=PROJECT_NAME)
+    # generate_project_projected_timeline_as_img(data_frame=df, project_name=PROJECT_NAME)
 
     # Create project statistics
-    generate_project_statistics(data_frame=df, project_name=PROJECT_NAME)
+    # generate_project_statistics(data_frame=df, project_name=PROJECT_NAME)
 
 
 if __name__ == '__main__':

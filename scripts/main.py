@@ -44,7 +44,7 @@ RENDER_DATES = [
     datetime(2023, 10, 21)
 ]
 REVIEWER_DETAILS = {
-    'name': 'Patrick V. Vinluan',
+    'name': 'Francis L. Camarao',
     'position': 'Information Systems Analyst III',
 }
 DIRECTORY_SEPARATOR = os.path.sep

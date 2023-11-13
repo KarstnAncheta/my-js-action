@@ -40,21 +40,18 @@ REVIEWER_DETAILS = {
     'position': 'Information Systems Analyst III',
 }
 RENDER_DATES = [
-    datetime(2023, 10, 26),
+    datetime(2023, 10, 30),
+    datetime(2023, 11, 1),
+    datetime(2023, 11, 2),
+    datetime(2023, 11, 4),
 ]
 PROJECTS = [
     {
         'PROJECT_NAME': 'eGov-BEBS',
         'PROJECT_TSV_FILE_PATH': 'tsv/egov-bebs.tsv',
-        'PROJECT_IMAGES_PATH': 'screenshots/1',
+        'PROJECT_IMAGES_PATH': 'screenshots/egov-bebs',
         'PROJECT_DETAILS': 'To design, build, test, and deploy a system for the Budgeting Office that will digitize a part of their current process.'
     },
-    {
-        'PROJECT_NAME': 'Second Sample Project',
-        'PROJECT_TSV_FILE_PATH': 'tsv/egov-bebs.tsv',
-        'PROJECT_IMAGES_PATH': 'screenshots/2',
-        'PROJECT_DETAILS': 'To design, build, test, and deploy a system for the Budgeting Office that will digitize a part of their current process.'
-    }
 ]
 
 DIRECTORY_SEPARATOR = os.path.sep

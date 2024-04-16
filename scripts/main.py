@@ -40,10 +40,10 @@ REVIEWER_DETAILS = {
     'position': 'Information Systems Analyst III',
 }
 RENDER_DATES = [
-    datetime(2023, 10, 30),
-    datetime(2023, 11, 1),
-    datetime(2023, 11, 2),
-    datetime(2023, 11, 4),
+    datetime(2024, 4, 6),
+    datetime(2024, 4, 7),
+    datetime(2024, 4, 9),
+    datetime(2024, 4, 10),
 ]
 PROJECTS = [
     {

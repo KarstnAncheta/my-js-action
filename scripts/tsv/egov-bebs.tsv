@@ -208,24 +208,40 @@ Add AnnualSkResolution.vue	https://github.com/cgob-mitd-dev/egov-bebs/issues/513
 Update formatting AnnualBarangayBudgetOverview.vue	https://github.com/cgob-mitd-dev/egov-bebs/issues/548	KarstnAncheta	1	Archived - New	Feb 27, 2024	Feb 27, 2024	miscellaneous tasks	P1	enhancement, frontend
 Update formatting SupplementalBarangayBudgetOverview.vue	https://github.com/cgob-mitd-dev/egov-bebs/issues/568	KarstnAncheta	1	Archived - New	Feb 27, 2024	Feb 27, 2024	miscellaneous tasks	P1	enhancement, frontend
 Update formatting AnnualSkBudgetOverview.vue	https://github.com/cgob-mitd-dev/egov-bebs/issues/555	KarstnAncheta	1	Archived - New	Feb 27, 2024	Feb 27, 2024	miscellaneous tasks	P1	enhancement, frontend
-Update form 1 with SPAs	https://github.com/cgob-mitd-dev/egov-bebs/issues/578	KarstnAncheta	8	Done	Mar 7, 2024	Mar 7, 2024	miscellaneous tasks	P1	backend, bug, frontend
-Add End Of The Year Overview CSV	https://github.com/cgob-mitd-dev/egov-bebs/issues/333	KarstnAncheta	16	On Hold			miscellaneous tasks	P1	backend, enhancement
-Add MFO input fields for AnnualBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/595	KarstnAncheta	4	Done	Mar 14, 2024	Mar 14, 2024	miscellaneous tasks	P1	backend, frontend
-Add "location" column on Reference tables	https://github.com/cgob-mitd-dev/egov-bebs/issues/584	KarstnAncheta	2	Done	Mar 14, 2024	Mar 14, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
-Add proposed amount for Appropriation for SK	https://github.com/cgob-mitd-dev/egov-bebs/issues/581	KarstnAncheta	1	Done	Mar 11, 2024	Mar 11, 2024	miscellaneous tasks	P1	backend
-Add interface showing passed checks upon failed submission	https://github.com/cgob-mitd-dev/egov-bebs/issues/597	KarstnAncheta	3	Done	Mar 14, 2024	Mar 14, 2024	miscellaneous tasks	P1	backend, frontend
-Update sources of funds table for supplemental barangay budget	https://github.com/cgob-mitd-dev/egov-bebs/issues/596	KarstnAncheta	1	Done	Mar 12, 2024	Mar 12, 2024	miscellaneous tasks	P1	backend, frontend
-Add toggle for showing control values	https://github.com/cgob-mitd-dev/egov-bebs/issues/593	KarstnAncheta	0.5	Done	Mar 11, 2024	Mar 11, 2024	miscellaneous tasks	P1	enhancement, frontend
-Add totals for procurement and BDRRM forms	https://github.com/cgob-mitd-dev/egov-bebs/issues/583	KarstnAncheta	4	Done	Mar 8, 2024	Mar 11, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
-Add 'implementing_office' options for Development Projects	https://github.com/cgob-mitd-dev/egov-bebs/issues/585	KarstnAncheta	1	Done	Mar 8, 2024	Mar 8, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
-Update overviews to show TBA for unfilled fields	https://github.com/cgob-mitd-dev/egov-bebs/issues/565	KarstnAncheta	1	Done	Mar 4, 2024	Mar 4, 2024	miscellaneous tasks	P1	backend, enhancement
+Update form 1 with SPAs	https://github.com/cgob-mitd-dev/egov-bebs/issues/578	KarstnAncheta	8	Archived - New	Mar 7, 2024	Mar 7, 2024	miscellaneous tasks	P1	backend, bug, frontend
+Add personal access tokens component and APIs	https://github.com/cgob-mitd-dev/egov-bebs/issues/624	KarstnAncheta	4	Done	Apr 2, 2024	Apr 2, 2024	bbs data retriever module	P1	backend, enhancement, frontend
+Fix 'user settings' breaking when SP or Accounting user accesses the page	https://github.com/cgob-mitd-dev/egov-bebs/issues/626	KarstnAncheta	0.5	Done	Apr 2, 2024	Apr 2, 2024	miscellaneous tasks	P1	backend, bug
+Fix "location" input not showing when updating a reference	https://github.com/cgob-mitd-dev/egov-bebs/issues/625	KarstnAncheta	0.5	Done	Apr 2, 2024	Apr 2, 2024	miscellaneous tasks	P1	bug, frontend
+Update personal services account codes	https://github.com/cgob-mitd-dev/egov-bebs/issues/633	KarstnAncheta	8	Done	Apr 9, 2024	Apr 9, 2024	post pre-flight testing	P1	backend, enhancement, frontend
+Add Budget Summary in the dashboard	https://github.com/cgob-mitd-dev/egov-bebs/issues/333	KarstnAncheta	16	Done	Apr 7, 2024	Apr 7, 2024	miscellaneous tasks	P1	backend, enhancement
+Add "Appropriation for Debt Service" SPA	https://github.com/cgob-mitd-dev/egov-bebs/issues/640	KarstnAncheta	4	On Hold	Apr 9, 2024		post pre-flight testing	P1	backend, enhancement, frontend
+Add more PPAs in the dropdown list	https://github.com/cgob-mitd-dev/egov-bebs/issues/638	KarstnAncheta	4	On Hold			post pre-flight testing	P1	enhancement, frontend
+Add user manual for barangay personnel	https://github.com/cgob-mitd-dev/egov-bebs/issues/637	KarstnAncheta	8	Done	Apr 10, 2024	Apr 10, 2024	miscellaneous tasks	P2	backend, enhancement, frontend
+Climate Change Tagging, GAD Budget Tagging	https://github.com/cgob-mitd-dev/egov-bebs/issues/639	KarstnAncheta		On Hold					enhancement, frontend
+Update users page	https://github.com/cgob-mitd-dev/egov-bebs/issues/623	KarstnAncheta	8	On Hold			miscellaneous tasks	P1	backend, enhancement, frontend
+Add documentation	https://github.com/cgob-mitd-dev/egov-bebs/issues/628	KarstnAncheta	8	On Hold	Apr 3, 2024		miscellaneous tasks	P1	documentation
+Fix Form 1 "Network Error" bug	https://github.com/cgob-mitd-dev/egov-bebs/issues/634	KarstnAncheta	8	Done	Apr 6, 2024	Apr 6, 2024	miscellaneous tasks	P1	backend, bug
+Fix annual budget's appropriation ordinance formatting	https://github.com/cgob-mitd-dev/egov-bebs/issues/635	KarstnAncheta	0.5	Done	Apr 6, 2024	Apr 6, 2024	miscellaneous tasks	P1	enhancement, frontend
+Add "does not go beyond SK fund limit" check for Annual SK Budget	https://github.com/cgob-mitd-dev/egov-bebs/issues/612	KarstnAncheta	2	Archived - New	Mar 25, 2024	Mar 25, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Add "has SK fund" check for Annual Barangay Budget	https://github.com/cgob-mitd-dev/egov-bebs/issues/613	KarstnAncheta	0.5	Archived - New	Mar 22, 2024	Mar 22, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Add "checklist has been already signed" check	https://github.com/cgob-mitd-dev/egov-bebs/issues/611	KarstnAncheta	3	Archived - New	Mar 25, 2024	Mar 25, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Update Overviews to support dark mode	https://github.com/cgob-mitd-dev/egov-bebs/issues/614	KarstnAncheta	2	Archived - New	Mar 22, 2024	Mar 22, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Add MFO input fields for AnnualBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/595	KarstnAncheta	4	Archived - New	Mar 14, 2024	Mar 14, 2024	miscellaneous tasks	P1	backend, frontend
+Add "location" column on Reference tables	https://github.com/cgob-mitd-dev/egov-bebs/issues/584	KarstnAncheta	2	Archived - New	Mar 14, 2024	Mar 14, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Add proposed amount for Appropriation for SK	https://github.com/cgob-mitd-dev/egov-bebs/issues/581	KarstnAncheta	1	Archived - New	Mar 11, 2024	Mar 11, 2024	miscellaneous tasks	P1	backend
+Add interface showing passed checks upon failed submission	https://github.com/cgob-mitd-dev/egov-bebs/issues/597	KarstnAncheta	3	Archived - New	Mar 14, 2024	Mar 14, 2024	miscellaneous tasks	P1	backend, frontend
+Update sources of funds table for supplemental barangay budget	https://github.com/cgob-mitd-dev/egov-bebs/issues/596	KarstnAncheta	1	Archived - New	Mar 12, 2024	Mar 12, 2024	miscellaneous tasks	P1	backend, frontend
+Add toggle for showing control values	https://github.com/cgob-mitd-dev/egov-bebs/issues/593	KarstnAncheta	0.5	Archived - New	Mar 11, 2024	Mar 11, 2024	miscellaneous tasks	P1	enhancement, frontend
+Add totals for procurement and BDRRM forms	https://github.com/cgob-mitd-dev/egov-bebs/issues/583	KarstnAncheta	4	Archived - New	Mar 8, 2024	Mar 11, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Add 'implementing_office' options for Development Projects	https://github.com/cgob-mitd-dev/egov-bebs/issues/585	KarstnAncheta	1	Archived - New	Mar 8, 2024	Mar 8, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Update overviews to show TBA for unfilled fields	https://github.com/cgob-mitd-dev/egov-bebs/issues/565	KarstnAncheta	1	Archived - New	Mar 4, 2024	Mar 4, 2024	miscellaneous tasks	P1	backend, enhancement
 Update generate-investment-plan to utilize arm64 instead of x86-64	https://github.com/cgob-mitd-dev/egov-bebs/issues/506	KarstnAncheta		Archived - New					backend, bug, enhancement, wontfix
-Fix DigitalSignatureService verify method	https://github.com/cgob-mitd-dev/egov-bebs/issues/563	KarstnAncheta	1	Done	Mar 4, 2024	Mar 4, 2024	miscellaneous tasks	P1	backend, bug
-Show appropriate user settings for each user role	https://github.com/cgob-mitd-dev/egov-bebs/issues/573	KarstnAncheta	1	Done	Mar 6, 2024	Mar 6, 2024	miscellaneous tasks	P1	bug, frontend
-Confirm Form 1 formatting for SPAs	https://github.com/cgob-mitd-dev/egov-bebs/issues/494	KarstnAncheta	0.5	Done	Mar 1, 2024	Mar 1, 2024	miscellaneous tasks	P1	question
-Add signatures AnnualSkBudgetOverview.vue	https://github.com/cgob-mitd-dev/egov-bebs/issues/550	KarstnAncheta	3	Done	Mar 1, 2024	Mar 1, 2024	miscellaneous tasks	P1	enhancement, frontend
-Add signatures SupplementalBarangayBudgetOverview.vue	https://github.com/cgob-mitd-dev/egov-bebs/issues/554	KarstnAncheta	3	Done	Mar 1, 2024	Mar 1, 2024	miscellaneous tasks	P1	enhancement, frontend
-Fix view position  on modal open/close	https://github.com/cgob-mitd-dev/egov-bebs/issues/552	KarstnAncheta	3	Done	Mar 4, 2024	Mar 4, 2024	miscellaneous tasks	P3	enhancement, frontend
+Fix DigitalSignatureService verify method	https://github.com/cgob-mitd-dev/egov-bebs/issues/563	KarstnAncheta	1	Archived - New	Mar 4, 2024	Mar 4, 2024	miscellaneous tasks	P1	backend, bug
+Show appropriate user settings for each user role	https://github.com/cgob-mitd-dev/egov-bebs/issues/573	KarstnAncheta	1	Archived - New	Mar 6, 2024	Mar 6, 2024	miscellaneous tasks	P1	bug, frontend
+Confirm Form 1 formatting for SPAs	https://github.com/cgob-mitd-dev/egov-bebs/issues/494	KarstnAncheta	0.5	Archived - New	Mar 1, 2024	Mar 1, 2024	miscellaneous tasks	P1	question
+Add signatures AnnualSkBudgetOverview.vue	https://github.com/cgob-mitd-dev/egov-bebs/issues/550	KarstnAncheta	3	Archived - New	Mar 1, 2024	Mar 1, 2024	miscellaneous tasks	P1	enhancement, frontend
+Add signatures SupplementalBarangayBudgetOverview.vue	https://github.com/cgob-mitd-dev/egov-bebs/issues/554	KarstnAncheta	3	Archived - New	Mar 1, 2024	Mar 1, 2024	miscellaneous tasks	P1	enhancement, frontend
+Fix view position  on modal open/close	https://github.com/cgob-mitd-dev/egov-bebs/issues/552	KarstnAncheta	3	Archived - New	Mar 4, 2024	Mar 4, 2024	miscellaneous tasks	P3	enhancement, frontend
 Add pivot table for User and AnnualSkBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/502	KarstnAncheta	0.5	Archived - New	Feb 21, 2024	Feb 21, 2024	miscellaneous tasks	P1	backend, enhancement
 Add pivot table for User and SupplementalBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/501	KarstnAncheta	0.5	Archived - New	Feb 21, 2024	Feb 21, 2024	miscellaneous tasks	P1	backend, enhancement
 Add pivot table for User and AnnualBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/500	KarstnAncheta	0.5	Archived - New	Feb 21, 2024	Feb 21, 2024	miscellaneous tasks	P1	backend, enhancement
@@ -376,6 +392,7 @@ Rename Expenditure => BarangayExpenditure	https://github.com/cgob-mitd-dev/egov-
 Fix skeleton loading for barangay details page	https://github.com/cgob-mitd-dev/egov-bebs/issues/196	KarstnAncheta	2	Archived - Old	Sep 4, 2023	Sep 4, 2023	miscellaneous tasks	P3	enhancement, frontend
 Fix: add "is_locked" flag to personnel schedules table	https://github.com/cgob-mitd-dev/egov-bebs/issues/181	KarstnAncheta	0.5	Archived - Old	Aug 1, 2023	Aug 1, 2023	miscellaneous tasks	P3	backend, enhancement
 Update Form 4 format	https://github.com/cgob-mitd-dev/egov-bebs/issues/582	KarstnAncheta	4	Won't Fix	Mar 12, 2024		miscellaneous tasks	P1	backend, enhancement, frontend
+Hide "submit budget" button for Annual SK budget if Annual Barangay Budget hasn't been approved by the City Budget Officer.	https://github.com/cgob-mitd-dev/egov-bebs/issues/604	KarstnAncheta		Won't Fix					backend, enhancement, frontend
 Add BarangayEmployee instead of Profile	https://github.com/cgob-mitd-dev/egov-bebs/issues/457	KarstnAncheta	4	Won't Fix	Jan 19, 2024		miscellaneous tasks	P1	backend
 Add downloadable Template for the Resolutions and Ordinances	https://github.com/cgob-mitd-dev/egov-bebs/issues/103	KarstnAncheta	8	Won't Fix			miscellaneous tasks	P1	backend, frontend
 Optimize ChecklistController@getControlValuesByBarangayIdAndByYear	https://github.com/cgob-mitd-dev/egov-bebs/issues/204	KarstnAncheta	4	Won't Fix			miscellaneous tasks	P3	backend, enhancement, wontfix
@@ -385,11 +402,11 @@ Update "Returned" status to  "Returned to Barangay"	https://github.com/cgob-mitd
 Update Development Projects to choose from CO only	https://github.com/cgob-mitd-dev/egov-bebs/issues/471	KarstnAncheta	4	Archived - New	Feb 2, 2024	Feb 2, 2024	miscellaneous tasks	P1	enhancement, frontend
 Add "20% DF" as a funding source	https://github.com/cgob-mitd-dev/egov-bebs/issues/474	KarstnAncheta	0.5	Archived - New	Feb 1, 2024	Feb 1, 2024	miscellaneous tasks	P1	backend
 Update BDRRM projects to not allow PS	https://github.com/cgob-mitd-dev/egov-bebs/issues/424	KarstnAncheta	2	Archived - New	Feb 1, 2024	Feb 1, 2024	miscellaneous tasks	P1	enhancement, frontend
-Update lexicals	https://github.com/cgob-mitd-dev/egov-bebs/issues/562	KarstnAncheta	1	Done	Mar 1, 2024	Mar 1, 2024	miscellaneous tasks	P3	enhancement, frontend
-Update DigitalSignature to save images as an svg instead of a png	https://github.com/cgob-mitd-dev/egov-bebs/issues/564	KarstnAncheta	2	Done	Mar 1, 2024	Mar 1, 2024	miscellaneous tasks	P1	backend, enhancement
-Update components for other SUPP_BRGY metadata	https://github.com/cgob-mitd-dev/egov-bebs/issues/561	KarstnAncheta	4	Done	Mar 3, 2024	Mar 3, 2024	miscellaneous tasks	P1	enhancement, frontend
-Update components for other ANNL_SKTN metadata	https://github.com/cgob-mitd-dev/egov-bebs/issues/567	KarstnAncheta	4	Done	Mar 3, 2024	Mar 3, 2024	miscellaneous tasks	P1	enhancement, frontend
-Update components for other ANNL_BRGY metadata	https://github.com/cgob-mitd-dev/egov-bebs/issues/569	KarstnAncheta	4	Done	Mar 2, 2024	Mar 2, 2024	miscellaneous tasks	P1	enhancement, frontend
+Update lexicals	https://github.com/cgob-mitd-dev/egov-bebs/issues/562	KarstnAncheta	1	Archived - New	Mar 1, 2024	Mar 1, 2024	miscellaneous tasks	P3	enhancement, frontend
+Update DigitalSignature to save images as an svg instead of a png	https://github.com/cgob-mitd-dev/egov-bebs/issues/564	KarstnAncheta	2	Archived - New	Mar 1, 2024	Mar 1, 2024	miscellaneous tasks	P1	backend, enhancement
+Update components for other SUPP_BRGY metadata	https://github.com/cgob-mitd-dev/egov-bebs/issues/561	KarstnAncheta	4	Archived - New	Mar 3, 2024	Mar 3, 2024	miscellaneous tasks	P1	enhancement, frontend
+Update components for other ANNL_SKTN metadata	https://github.com/cgob-mitd-dev/egov-bebs/issues/567	KarstnAncheta	4	Archived - New	Mar 3, 2024	Mar 3, 2024	miscellaneous tasks	P1	enhancement, frontend
+Update components for other ANNL_BRGY metadata	https://github.com/cgob-mitd-dev/egov-bebs/issues/569	KarstnAncheta	4	Archived - New	Mar 2, 2024	Mar 2, 2024	miscellaneous tasks	P1	enhancement, frontend
 Add Component for adding a write-only digital signature	https://github.com/cgob-mitd-dev/egov-bebs/issues/439	KarstnAncheta	4	Archived - New	Jan 24, 2024	Jan 24, 2024	miscellaneous tasks	P1	frontend
 Add or Update API for updating user profile details	https://github.com/cgob-mitd-dev/egov-bebs/issues/463	KarstnAncheta	1	Archived - New	Jan 22, 2024	Jan 22, 2024	miscellaneous tasks	P1	backend
 Add "Generate PDF" function for Supplemental Barangay Budget	https://github.com/cgob-mitd-dev/egov-bebs/issues/453	KarstnAncheta	8	Archived - New	Jan 10, 2024	Jan 23, 2024	miscellaneous tasks	P2	backend, enhancement, frontend
@@ -480,22 +497,41 @@ Add download method for ANNL_SKTN	https://github.com/cgob-mitd-dev/egov-bebs/iss
 Add download method for SUPP_BRGY	https://github.com/cgob-mitd-dev/egov-bebs/issues/559	KarstnAncheta	0.5	Archived - New	Feb 27, 2024	Feb 27, 2024	miscellaneous tasks	P1	enhancement, frontend
 Update viewable components for City Budget Officer	https://github.com/cgob-mitd-dev/egov-bebs/issues/566	KarstnAncheta	1	Archived - New	Feb 27, 2024	Feb 27, 2024	miscellaneous tasks	P1	enhancement, frontend
 Update viewable components for Sangguniang Panlungsod	https://github.com/cgob-mitd-dev/egov-bebs/issues/560	KarstnAncheta	1	Archived - New	Feb 27, 2024	Feb 27, 2024	miscellaneous tasks	P1	enhancement, frontend
-Add signatures AnnualBarangayBudgetOverview.vue	https://github.com/cgob-mitd-dev/egov-bebs/issues/549	KarstnAncheta	3	Done	Mar 1, 2024	Mar 1, 2024	miscellaneous tasks	P1	enhancement, frontend
-Add headers and footers for transmittal letters	https://github.com/cgob-mitd-dev/egov-bebs/issues/572	KarstnAncheta	8	Done	Mar 5, 2024	Mar 5, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
-Only show 'sign budget' button to Barangay and SK users	https://github.com/cgob-mitd-dev/egov-bebs/issues/574	KarstnAncheta	1	Done	Mar 6, 2024	Mar 6, 2024	miscellaneous tasks	P1	bug, frontend
-Show Expenditure Classes for BDRRM Projects	https://github.com/cgob-mitd-dev/egov-bebs/issues/575	KarstnAncheta	1	Done	Mar 6, 2024	Mar 6, 2024	miscellaneous tasks	P1	bug, frontend
-Remove "transmittal letter" columns and views	https://github.com/cgob-mitd-dev/egov-bebs/issues/576	KarstnAncheta	1	Done	Mar 6, 2024	Mar 6, 2024	miscellaneous tasks	P1	backend, bug, frontend
-Update version of budgets when returned	https://github.com/cgob-mitd-dev/egov-bebs/issues/577	KarstnAncheta	0.5	Done	Mar 6, 2024	Mar 6, 2024	miscellaneous tasks	P1	backend, bug
-Update landing page	https://github.com/cgob-mitd-dev/egov-bebs/issues/579	KarstnAncheta	1	Done	Mar 6, 2024	Mar 6, 2024	miscellaneous tasks	P1	frontend
-Add SPA for Appropriation for Sangguniang Kabataan	https://github.com/cgob-mitd-dev/egov-bebs/issues/580	KarstnAncheta	0.5	Done	Mar 7, 2024	Mar 7, 2024	miscellaneous tasks	P1	backend, enhancement
-Update 30% QRF Expected Result	https://github.com/cgob-mitd-dev/egov-bebs/issues/591	KarstnAncheta	0.5	Done	Mar 8, 2024	Mar 8, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
-Add "digitally signed on" timestamp	https://github.com/cgob-mitd-dev/egov-bebs/issues/590	KarstnAncheta	3	Done	Mar 8, 2024	Mar 8, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
-Make transmittal letters only viewable by CBO and SP	https://github.com/cgob-mitd-dev/egov-bebs/issues/589	KarstnAncheta	0.5	Done	Mar 8, 2024	Mar 8, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
-Update negative numbers to be within a parenthesis only	https://github.com/cgob-mitd-dev/egov-bebs/issues/588	KarstnAncheta	1	Done	Mar 8, 2024	Mar 8, 2024	miscellaneous tasks	P1	enhancement, frontend
-Update Form 1 to show nothing instead of N/A	https://github.com/cgob-mitd-dev/egov-bebs/issues/587	KarstnAncheta	0.5	Done	Mar 8, 2024	Mar 8, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
-Update Development Projects to accept MOOE	https://github.com/cgob-mitd-dev/egov-bebs/issues/586	KarstnAncheta	1	Done	Mar 8, 2024	Mar 8, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
-Update forms text formatting	https://github.com/cgob-mitd-dev/egov-bebs/issues/592	KarstnAncheta	2	Done	Mar 11, 2024	Mar 11, 2024	miscellaneous tasks	P1	enhancement, frontend
-Hide bonuses in PersonnelModal.vue for SK users	https://github.com/cgob-mitd-dev/egov-bebs/issues/598	KarstnAncheta		Done					enhancement, frontend
-Add Annual Barangay Budget MFOs in Section 3 of Appropriation Ordinance	https://github.com/cgob-mitd-dev/egov-bebs/issues/599	KarstnAncheta	0.5	Done	Mar 15, 2024	Mar 15, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
-Add CBO users accounts in seeder	https://github.com/cgob-mitd-dev/egov-bebs/issues/600	KarstnAncheta	0.5	Done	Mar 15, 2024	Mar 15, 2024	miscellaneous tasks	P1	backend, enhancement
-Add MFO column for SupplementalBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/601	KarstnAncheta	0.5	Done	Mar 15, 2024	Mar 15, 2024	miscellaneous tasks	P1	backend, enhancement
+Add signatures AnnualBarangayBudgetOverview.vue	https://github.com/cgob-mitd-dev/egov-bebs/issues/549	KarstnAncheta	3	Archived - New	Mar 1, 2024	Mar 1, 2024	miscellaneous tasks	P1	enhancement, frontend
+Add headers and footers for transmittal letters	https://github.com/cgob-mitd-dev/egov-bebs/issues/572	KarstnAncheta	8	Archived - New	Mar 5, 2024	Mar 5, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Only show 'sign budget' button to Barangay and SK users	https://github.com/cgob-mitd-dev/egov-bebs/issues/574	KarstnAncheta	1	Archived - New	Mar 6, 2024	Mar 6, 2024	miscellaneous tasks	P1	bug, frontend
+Show Expenditure Classes for BDRRM Projects	https://github.com/cgob-mitd-dev/egov-bebs/issues/575	KarstnAncheta	1	Archived - New	Mar 6, 2024	Mar 6, 2024	miscellaneous tasks	P1	bug, frontend
+Remove "transmittal letter" columns and views	https://github.com/cgob-mitd-dev/egov-bebs/issues/576	KarstnAncheta	1	Archived - New	Mar 6, 2024	Mar 6, 2024	miscellaneous tasks	P1	backend, bug, frontend
+Update version of budgets when returned	https://github.com/cgob-mitd-dev/egov-bebs/issues/577	KarstnAncheta	0.5	Archived - New	Mar 6, 2024	Mar 6, 2024	miscellaneous tasks	P1	backend, bug
+Update landing page	https://github.com/cgob-mitd-dev/egov-bebs/issues/579	KarstnAncheta	1	Archived - New	Mar 6, 2024	Mar 6, 2024	miscellaneous tasks	P1	frontend
+Add SPA for Appropriation for Sangguniang Kabataan	https://github.com/cgob-mitd-dev/egov-bebs/issues/580	KarstnAncheta	0.5	Archived - New	Mar 7, 2024	Mar 7, 2024	miscellaneous tasks	P1	backend, enhancement
+Update 30% QRF Expected Result	https://github.com/cgob-mitd-dev/egov-bebs/issues/591	KarstnAncheta	0.5	Archived - New	Mar 8, 2024	Mar 8, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Add "digitally signed on" timestamp	https://github.com/cgob-mitd-dev/egov-bebs/issues/590	KarstnAncheta	3	Archived - New	Mar 8, 2024	Mar 8, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Make transmittal letters only viewable by CBO and SP	https://github.com/cgob-mitd-dev/egov-bebs/issues/589	KarstnAncheta	0.5	Archived - New	Mar 8, 2024	Mar 8, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Update negative numbers to be within a parenthesis only	https://github.com/cgob-mitd-dev/egov-bebs/issues/588	KarstnAncheta	1	Archived - New	Mar 8, 2024	Mar 8, 2024	miscellaneous tasks	P1	enhancement, frontend
+Update Form 1 to show nothing instead of N/A	https://github.com/cgob-mitd-dev/egov-bebs/issues/587	KarstnAncheta	0.5	Archived - New	Mar 8, 2024	Mar 8, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Update Development Projects to accept MOOE	https://github.com/cgob-mitd-dev/egov-bebs/issues/586	KarstnAncheta	1	Archived - New	Mar 8, 2024	Mar 8, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Update forms text formatting	https://github.com/cgob-mitd-dev/egov-bebs/issues/592	KarstnAncheta	2	Archived - New	Mar 11, 2024	Mar 11, 2024	miscellaneous tasks	P1	enhancement, frontend
+Hide bonuses in PersonnelModal.vue for SK users	https://github.com/cgob-mitd-dev/egov-bebs/issues/598	KarstnAncheta		Archived - New					enhancement, frontend
+Add Annual Barangay Budget MFOs in Section 3 of Appropriation Ordinance	https://github.com/cgob-mitd-dev/egov-bebs/issues/599	KarstnAncheta	0.5	Archived - New	Mar 15, 2024	Mar 15, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Add CBO users accounts in seeder	https://github.com/cgob-mitd-dev/egov-bebs/issues/600	KarstnAncheta	0.5	Archived - New	Mar 15, 2024	Mar 15, 2024	miscellaneous tasks	P1	backend, enhancement
+Add MFO column for SupplementalBarangayBudgetChecklist	https://github.com/cgob-mitd-dev/egov-bebs/issues/601	KarstnAncheta	0.5	Archived - New	Mar 15, 2024	Mar 15, 2024	miscellaneous tasks	P1	backend, enhancement
+Update project detail modals breakdown of expenses	https://github.com/cgob-mitd-dev/egov-bebs/issues/610	KarstnAncheta	4	Archived - New	Mar 21, 2024	Mar 21, 2024		P3	enhancement, frontend
+Utilize DTOs to speed up CRUD functions in project detail modals	https://github.com/cgob-mitd-dev/egov-bebs/issues/609	KarstnAncheta	8	Archived - New	Mar 19, 2024	Mar 20, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Add MFO-related inputs for Supplemental Barangay Budget	https://github.com/cgob-mitd-dev/egov-bebs/issues/602	KarstnAncheta	2	Archived - New	Mar 18, 2024	Mar 18, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Update "location" input field behavior	https://github.com/cgob-mitd-dev/egov-bebs/issues/603	KarstnAncheta	3	Archived - New	Mar 18, 2024	Mar 18, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Add Important Control Values for Annual SK Budget	https://github.com/cgob-mitd-dev/egov-bebs/issues/605	KarstnAncheta	1	Archived - New	Mar 18, 2024	Mar 18, 2024	miscellaneous tasks	P1	backend, enhancement, frontend
+Update frontend route paths	https://github.com/cgob-mitd-dev/egov-bebs/issues/607	KarstnAncheta	2	Archived - New	Mar 19, 2024	Mar 19, 2024	miscellaneous tasks	P3	enhancement, frontend
+Automatic computation for the QRF 30% DRRM	https://github.com/cgob-mitd-dev/egov-bebs/issues/629	KarstnAncheta	1	Todo P3			post pre-flight testing	P3	backend, enhancement, frontend
+Update logic when creating and modifying PPAs	https://github.com/cgob-mitd-dev/egov-bebs/issues/620	KarstnAncheta	8	Done	Apr 11, 2024	Apr 11, 2024	miscellaneous tasks	P3	backend, enhancement, frontend
+Update Aip Reference Modal	https://github.com/cgob-mitd-dev/egov-bebs/issues/608	KarstnAncheta	8	Todo P3			miscellaneous tasks	P3	backend, enhancement, frontend
+Update Saip Reference Modal	https://github.com/cgob-mitd-dev/egov-bebs/issues/619	KarstnAncheta	4	Todo P3			miscellaneous tasks	P3	backend, enhancement, frontend
+Update Abyip Reference Modal	https://github.com/cgob-mitd-dev/egov-bebs/issues/618	KarstnAncheta	4	Todo P3			miscellaneous tasks	P3	backend, enhancement, frontend
+Fix reading location when creating or updating references	https://github.com/cgob-mitd-dev/egov-bebs/issues/615	KarstnAncheta	0.5	Archived - New	Mar 25, 2024	Mar 25, 2024	miscellaneous tasks	P1	backend, bug
+Update updateChecklistStatus method to set comment to null after marked as reviewed	https://github.com/cgob-mitd-dev/egov-bebs/issues/616	KarstnAncheta	0.5	Archived - New	Mar 25, 2024	Mar 25, 2024	miscellaneous tasks	P1	backend, enhancement
+Remove file checks for development plan related files	https://github.com/cgob-mitd-dev/egov-bebs/issues/617	KarstnAncheta	0.5	Archived - New	Mar 26, 2024	Mar 26, 2024	miscellaneous tasks	P1	backend, enhancement
+Make training materials for small test group	https://github.com/cgob-mitd-dev/egov-bebs/issues/621	KarstnAncheta	2	Archived - New	Mar 27, 2024	Mar 27, 2024	miscellaneous tasks	P1	documentation
+Update ExpenditureItemModal.vue formatting	https://github.com/cgob-mitd-dev/egov-bebs/issues/630	KarstnAncheta	0.5	Done	Apr 6, 2024	Apr 6, 2024	miscellaneous tasks	P3	backend, enhancement, frontend
+Update sector for "Construction of Local Roads and Infrastructure"	https://github.com/cgob-mitd-dev/egov-bebs/issues/632	KarstnAncheta	0.5	Done	Apr 6, 2024	Apr 6, 2024	miscellaneous tasks	P1	backend, enhancement
+Remove unused queues and other queue-related files	https://github.com/cgob-mitd-dev/egov-bebs/issues/636	KarstnAncheta	0.5	Done	Apr 6, 2024	Apr 6, 2024		P3	backend, enhancement
+Update Form 2 reference code and expected outputs formatting	https://github.com/cgob-mitd-dev/egov-bebs/issues/642	KarstnAncheta		Done	Apr 9, 2024	Apr 9, 2024	miscellaneous tasks	P3	backend, enhancement, frontend
